@@ -1,0 +1,11 @@
+.project-card {
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.project-image {
+    border-bottom: 1px solid black;
+    border-radius: 18px 18px 0px 0px;
+    min-width: auto;
+    min-height: auto;
+}

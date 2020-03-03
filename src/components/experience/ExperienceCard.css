@@ -1,0 +1,11 @@
+.experience-card {
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.experience-image {
+    border-bottom: 1px solid black;
+    border-radius: 23px 23px 0px 0px;
+    min-width: auto;
+    min-height: auto;
+}
