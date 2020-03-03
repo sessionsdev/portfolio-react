@@ -40,12 +40,14 @@ const NavBar = (props) => {
                         </a>
                         <ul className="right hide-on-med-and-down">
                             <li><a href="#about" className="white-text">About Me</a></li>
-                            <li><a href="#" className="white-text">Contact Me</a></li>
+                            <li><a href="#projects" className="white-text">Some Projects</a></li>
+                            <li><a href="#contact" className="white-text">Contact Me</a></li>
                                 
                         </ul>
                         <ul className="sidenav grey lighten-2" id="mobile-nav">
-                            <li><a href="#">About Me</a></li>
-                            <li><a href="#">Contact Me</a></li>
+                            <li><a href="#about">About Me</a></li>
+                            <li><a href="#projects">Some Projects</a></li>
+                            <li><a href="#contact">Contact Me</a></li>
 
                             
                         </ul>
