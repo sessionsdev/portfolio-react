@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.b18137ba.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.3403d250.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.3403d250.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.69a8648f.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.69a8648f.js.map",
+    "static/js/2.a65d38f1.chunk.js": "/portfolio-react/static/js/2.a65d38f1.chunk.js",
+    "static/js/2.a65d38f1.chunk.js.map": "/portfolio-react/static/js/2.a65d38f1.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "precache-manifest.2679a06c0f54999795a387047dc99548.js": "/portfolio-react/precache-manifest.2679a06c0f54999795a387047dc99548.js",
+    "service-worker.js": "/portfolio-react/service-worker.js",
+    "static/css/main.b18137ba.chunk.css.map": "/portfolio-react/static/css/main.b18137ba.chunk.css.map",
+    "static/js/2.a65d38f1.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.a65d38f1.chunk.js.LICENSE.txt",
+    "static/media/about.png": "/portfolio-react/static/media/about.cc669a05.png",
+    "static/media/chirpblog_homepage.jpg": "/portfolio-react/static/media/chirpblog_homepage.a7c80c00.jpg",
+    "static/media/codingnomads.png": "/portfolio-react/static/media/codingnomads.a914004e.png",
+    "static/media/header.png": "/portfolio-react/static/media/header.131f34d3.png",
+    "static/media/itm.png": "/portfolio-react/static/media/itm.242940a7.png",
+    "static/media/userauth.png": "/portfolio-react/static/media/userauth.41c497e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69a8648f.js",
+    "static/js/2.a65d38f1.chunk.js",
+    "static/css/main.b18137ba.chunk.css",
+    "static/js/main.3403d250.chunk.js"
+  ]
+}
